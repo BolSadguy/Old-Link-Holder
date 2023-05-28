@@ -6,4 +6,6 @@
 
 Based on OSBMX https://github.com/TheTrainGoes/GP2040-Projects/tree/main/Open%20Source%20Buttons/OSBMX
 
+Does not include mounting nuts, get that from the OSBMX repository above
+
 Mounts in a 24mm hole. Requires a spare stub for Phreakmods Link. Designed for the JLF version of the Link and these 24mm rubber hole plugs from aliexpress https://www.aliexpress.com/item/1005001797243602.html?spm=a2g0o.order_list.order_list_main.22.656f1802g4zsxH
