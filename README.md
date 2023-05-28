@@ -11,3 +11,10 @@ Does not include mounting nuts, get that from the OSBMX repository above
 Mounts in a 24mm hole. Requires a spare stub for Phreakmods Link. Designed for the JLF version of the Link and these 24mm rubber hole plugs from aliexpress https://www.aliexpress.com/item/1005001797243602.html?spm=a2g0o.order_list.order_list_main.22.656f1802g4zsxH
 
 Test prints were done in black resin from JLCPCB
+
+Please remember to give credit where its due.
+
+DISCLAIMER:
+
+I am not responsible for fabrication errors or any damages/injuries when modding your arcade stick.
+
