@@ -12,6 +12,8 @@ Mounts in a 24mm hole. Requires a spare stub for Phreakmods Link. Designed for t
 
 Test prints were done in black resin from JLCPCB
 
+UPDATE (2023/11/13) - An alternate STL has been made for the LS-32 version of the Link base. It was made with measurements given to me by Phreakmods but has not been tested.
+
 Please remember to give credit where its due.
 
 DISCLAIMER:
