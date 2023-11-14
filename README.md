@@ -6,7 +6,7 @@
 ![20230526_040247](https://github.com/BolSadguy/24mm-Link-Holder/assets/131397163/08b0da07-1b7a-48b6-8271-786bd8950ca3)
 ![20230526_040308](https://github.com/BolSadguy/24mm-Link-Holder/assets/131397163/9153da1e-f0bb-4636-a114-41bc52cabdfc)
 
-Based on OSBMX https://github.com/TheTrainGoes/GP2040-Projects/tree/main/Open%20Source%20Buttons/OSBMX
+Based on OSBMX [https://github.com/TheTrainGoes/GP2040-Projects/tree/main/Open%20Source%20Buttons/OSBMX](https://github.com/OpenStickCommunity/Hardware/tree/main/OSBMX/Other%20Configurations)
 
 Does not include mounting nuts, get that from the OSBMX repository above
 
