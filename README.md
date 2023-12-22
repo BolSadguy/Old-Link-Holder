@@ -8,15 +8,15 @@
 
 Based on OSBMX https://github.com/OpenStickCommunity/Hardware/tree/main/OSBMX/Other%20Configurations
 
-Does not include mounting nuts, get that from the OSBMX repository above
-
 Mounts in a 24mm hole. Requires a spare stub for Phreakmods Link. Designed for the JLF version of the Link and these 24mm rubber hole plugs from aliexpress https://www.aliexpress.com/item/1005001797243602.html?spm=a2g0o.order_list.order_list_main.22.656f1802g4zsxH
+
+Does not include mounting nuts (get the STL for that from the OSBMX repository above), Link base stubs, rubber hole plugs or e-clips.
 
 Test prints were done in black resin from JLCPCB
 
 UPDATE (2023/11/13) - An alternate STL has been made for the LS-32 version of the Link base. It was made with measurements given to me by Phreakmods but has not been tested.
 
-Please remember to give credit where its due.
+Please remember to give credit where it's due.
 
 DISCLAIMER:
 
