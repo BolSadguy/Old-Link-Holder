@@ -1,4 +1,4 @@
-# 24mm Link Holder
+# 24mm Link Holder (NOTE: THIS VERSION IS OUTDATED AND HAS BEEN REPLACED. SEE PROFILE FOR NEW VERSION)
 
 ![image](https://github.com/BolSadguy/24mm-Link-Holder/assets/131397163/e4e54635-611d-4d5a-b8d3-da5e05b3e420)
 ![image](https://github.com/BolSadguy/24mm-Link-Holder/assets/131397163/aa8e76f0-e13a-4a89-943d-81b60bab3893)
